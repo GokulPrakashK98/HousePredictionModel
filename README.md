@@ -22,6 +22,6 @@ In our visualization approach, Matplotlib served as our primary tools. To explor
 6) Python flask for HTTP server
 7) HTML/CSS/JavaScript for UI
 ## Timeline
-![](C:\Users\Lab\Downloads\Screenshot 2024-02-19 173150.png)
+![]("C:\Users\Lab\Downloads\Screenshot 2024-02-19 173150.png")
 
 
