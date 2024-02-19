@@ -13,6 +13,7 @@ This project involves exploratory, descriptive, and predictive analysis of the d
 ## 5. Visualizations
 In our visualization approach, Matplotlib served as our primary tools. To explore potential correlations between factors and the target variable, we have employed scatter plots. These visualizations are integral to comprehensively understanding the relationships between various features and predicted house prices, aiding in informed model development and analysis.
 ## Installation and Usage
+Clone the repository. Files located within the model, server, and website directories are necessary for the application's operation. A pickle file in the model directory contains the linear regression model for predicting house prices. Launch the Flask server before accessing the website. So, a python editor is required to run the flask server and also to make changes in the model. [Jupyter Notebook](https://jupyter.org/install) can be an option for this.
 ## Tools covered
 1) Python
 2) NumPy and Pandas for data cleaning
