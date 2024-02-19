@@ -1,6 +1,6 @@
 # PythonForDataScience
-## House price prediction
-The real estate market is influenced by multifaceted elements, and an accurate prediction mechanism is pivotal for informed decision-making among buyers, sellers, and real estate experts. Leveraging advanced machine learning methodologies, this project endeavors to formulate a predictive model specifically tailored for predicting house prices. This model is capable of forecasting house prices using a diverse range of factors including dimensions, geographical location, and room count.
+## House price prediction model
+The real estate market is shaped by various complex factors, and having an accurate prediction system is crucial for informed decision-making by buyers, sellers, and real estate professionals. Employing advanced machine learning techniques, this project aims to develop a predictive model designed specifically for forecasting house prices. This model is capable of forcasting house prices by considering a variety of factors such as property dimensions, location, and number of rooms.
 ## Functionalities
 ## 1. Data source and retrieval
 The project utilized a dataset sourced from Kaggle, specifically in CSV format, containing housing details from Bangalore, India. It encompasses various attributes such as area type, availability, location coordinates, size, society, total square feet, bathrooms, balcony count, and sales prices. The [dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-houseprice-data) comprises 13,320 entries of house price information from Bangalore, India.
@@ -13,7 +13,7 @@ Statistical analysis of the dataset was multifaceted, involving exploratory, des
 ## 5. Visualizations
 Visualizations were crucial in understanding potential correlations between factors and the target variable. [Matplotlib](https://matplotlib.org/) was primarily utilized for generating scatter plots to explore these relationships comprehensively. These visualizations played a vital role in informing model development and analysis by providing insights into the relationships between various features and predicted house prices.
 ## Installation and Usage
-Clone the repository. Files located within the model, server, and website directories are necessary for the application's operation. A pickle file in the model directory contains the linear regression model for predicting house prices. Launch the Flask server before accessing the website. So, a python editor is required to run the flask server and also to make changes in the model. [Jupyter Notebook](https://jupyter.org/install) can be an option for this.
+To utilize the application, one must clone the repository. Essential files housed within the model, server, and website directories are required for the application's functionality. Within the model directory, there exists a pickle file containing the linear regression model crucial for predicting house prices. Before accessing the website, it is imperative to launch the Flask server. Therefore, a Python editor like [VsCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), or [Atom](https://atom-editor.cc/) is essential for running the Flask server and make modifications within the model. [Jupyter Notebook](https://jupyter.org/install) is also a great option for visualization and data analysis.
 ## Tools covered
 1) Python
 2) NumPy and Pandas for data cleaning
