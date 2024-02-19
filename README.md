@@ -22,7 +22,7 @@ In our visualization approach, Matplotlib served as our primary tools. To explor
 6) Python flask for HTTP server
 7) HTML/CSS/JavaScript for UI
 ## Timeline
-![](https://github.com/GokulPrakashK98/PythonForDataScience/blob/main/Screenshot%202024-02-19%20173150.png?raw=true)
+![](https://github.com/GokulPrakashK98/PythonForDataScience/blob/main/Images/Screenshot%202024-02-19%20173150.png?raw=true)
 ## How to use
 
 
