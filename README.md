@@ -34,3 +34,4 @@ To utilize the application, one must clone the repository. Essential files house
 * Group team leader: Kolakkattil, Gokul Prakash
 * Group members: Kolakkattil, Gokul Prakash & Balakrishnan, Ruthran Veerasamy
 
+Gokul: 
