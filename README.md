@@ -33,5 +33,4 @@ To utilize the application, one must clone the repository. Essential files house
 * Tutor responsible: Hänies, Ole
 * Group team leader: Kolakkattil, Gokul Prakash
 * Group members: Kolakkattil, Gokul Prakash & Balakrishnan, Ruthran Veerasamy
-
-Gokul: 
+Gokul handled data preprocessing and constructed a linear regression model for predicting house prices, while Ruthran built the Flask server and designed the website for the user interface.
