@@ -1,5 +1,7 @@
 # PythonForDataScience
 ## House price prediction model
+![](https://github.com/GokulPrakashK98/PythonForDataScience/blob/main/Images/timeline.png?raw=true)
+## Description
 The real estate market is shaped by various complex factors, and having an accurate prediction system is crucial for informed decision-making by buyers, sellers, and real estate professionals. Employing advanced machine learning techniques, this project aims to develop a predictive model designed specifically for forecasting house prices. This model is capable of forcasting house prices by considering a variety of factors such as property dimensions, location, and number of rooms.
 ## Functionalities
 ## 1. Data source and retrieval
@@ -14,7 +16,7 @@ Statistical analysis of the dataset was multifaceted, involving exploratory, des
 Visualizations were crucial in understanding potential correlations between factors and the target variable. [Matplotlib](https://matplotlib.org/) was primarily utilized for generating scatter plots to explore these relationships comprehensively. These visualizations played a vital role in informing model development and analysis by providing insights into the relationships between various features and predicted house prices.
 ## Installation and Usage
 To utilize the application, one must clone the repository. Essential files housed within the model, server, and website directories are required for the application's functionality. Within the model directory, there exists a pickle file containing the linear regression model crucial for predicting house prices. Before accessing the website, it is imperative to launch the Flask server. Therefore, a Python editor like [VsCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), or [Atom](https://atom-editor.cc/) is essential for running the Flask server and make modifications within the model. [Jupyter Notebook](https://jupyter.org/install) is also a great option for visualization and data analysis.
-## Tools covered
+## Libraries covered
 1) Python
 2) NumPy and Pandas for data cleaning
 3) Matplotlib for data visualization
@@ -24,5 +26,5 @@ To utilize the application, one must clone the repository. Essential files house
 7) HTML/CSS/JavaScript for UI
 ## Timeline
 ![](https://github.com/GokulPrakashK98/PythonForDataScience/blob/main/Images/timeline.png?raw=true)
-## How to use
+## Group Details
 
