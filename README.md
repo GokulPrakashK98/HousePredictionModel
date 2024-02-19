@@ -1,8 +1,6 @@
 # PythonForDataScience
 ## House price prediction
-<div style="text-align: justify">
-The real estate market is influenced by multifaceted elements, and an accurate prediction mechanism is pivotal for informed decision-making among buyers, sellers, and real estate experts. Leveraging advanced machine learning methodologies, this project endeavors to formulate a predictive model specifically tailored for predicting house prices. This model is capable of forecasting house prices using a diverse range of factors including dimensions, geographical location, and room count. The model is built based on the [dataset]( https://www.kaggle.com/datasets/amitabhajoy/bengaluru-houseprice-data) with 13320 house price information from Bangalore, India.
-</div>
+<div style="text-align: justify">The real estate market is influenced by multifaceted elements, and an accurate prediction mechanism is pivotal for informed decision-making among buyers, sellers, and real estate experts. Leveraging advanced machine learning methodologies, this project endeavors to formulate a predictive model specifically tailored for predicting house prices. This model is capable of forecasting house prices using a diverse range of factors including dimensions, geographical location, and room count. The model is built based on the [dataset]( https://www.kaggle.com/datasets/amitabhajoy/bengaluru-houseprice-data) with 13320 house price information from Bangalore, India.</div>
 ## Functionalities
 ## 1. Data source and retrieval
 We  used a dataset from Kaggle, which was available in CSV format containing housing information from Bangalore, India. Including features like area type, availability, location coordinates, size, society, total square feet, bathrooms, balcony and sales prices. 
