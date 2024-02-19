@@ -1,6 +1,6 @@
 # PythonForDataScience
 ## House price prediction model
-![](https://github.com/GokulPrakashK98/PythonForDataScience/blob/main/Images/banner.png?raw=true)
+![](https://github.com/GokulPrakashK98/PythonForDataScience/blob/main/Images/banner_new.png?raw=true)
 ## Description
 The real estate market is shaped by various complex factors, and having an accurate prediction system is crucial for informed decision-making by buyers, sellers, and real estate professionals. Employing advanced machine learning techniques, this project aims to develop a predictive model designed specifically for forecasting house prices. This model is capable of forcasting house prices by considering a variety of factors such as property dimensions, location, and number of rooms.
 ## Functionalities
