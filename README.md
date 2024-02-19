@@ -5,7 +5,7 @@
 The real estate market is shaped by various complex factors, and having an accurate prediction system is crucial for informed decision-making by buyers, sellers, and real estate professionals. Employing advanced machine learning techniques, this project aims to develop a predictive model designed specifically for forecasting house prices. This model is capable of forcasting house prices by considering a variety of factors such as property dimensions, location, and number of rooms.
 ## Functionalities
 ## 1. Data source and retrieval
-The project utilized a dataset sourced from Kaggle, specifically in CSV format, containing housing details from Bangalore, India. It encompasses various attributes such as area type, availability, location coordinates, size, society, total square feet, bathrooms, balcony count, and sales prices. The [dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-houseprice-data) comprises 13,320 entries of house price information from Bangalore, India.
+The project utilized a dataset sourced from Kaggle, specifically in CSV format, containing housing details from Bangalore, India. It encompasses various attributes such as area type, availability, location coordinates, size, society, total square feet, bathrooms, and sales prices. The [dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-houseprice-data) comprises 13,320 entries of house price information from Bangalore, India.
 ## 2. Data storage and handling
 [Pandas](https://pandas.pydata.org/docs/) was employed to manage the downloaded CSV dataset. Simultaneously, Pandas and [NumPy](https://numpy.org/) were utilized for data cleaning, which involved handling missing values, outliers, and encoding categorical variables. Exploratory data analysis was conducted to unveil correlations between features and the target variable, namely house prices.
 ## 3.Interface
@@ -27,4 +27,10 @@ To utilize the application, one must clone the repository. Essential files house
 ## Timeline
 ![](https://github.com/GokulPrakashK98/PythonForDataScience/blob/main/Images/timeline.png?raw=true)
 ## Group Details
+* Group name: Data Scholars
+* Group code: G12
+* Group repository: https://github.com/GokulPrakashK98/PythonForDataScience
+* Tutor responsible: Hänies, Ole
+* Group team leader: Kolakkattil, Gokul Prakash
+* Group members: Kolakkattil, Gokul Prakash & Balakrishnan, Ruthran Veerasamy
 
