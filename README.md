@@ -14,6 +14,9 @@ The project's interface was developed using a Python [Flask](https://flask.palle
 Statistical analysis of the dataset was multifaceted, involving exploratory, descriptive, and predictive approaches. Significant features were identified through correlation analysis between factors and the target variable, which were subsequently utilized in building the machine learning model. The model employed was a linear regression model, covering various data science concepts such as data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, and k-fold cross-validation.
 ## 5. Visualizations
 Visualizations were crucial in understanding potential correlations between factors and the target variable. [Matplotlib](https://matplotlib.org/) was primarily utilized for generating scatter plots to explore these relationships comprehensively. These visualizations played a vital role in informing model development and analysis by providing insights into the relationships between various features and predicted house prices.
+## Machine learning model
+* The dataset was divided into a traiing set and a testing set; 80% and 20% respectively.
+* Three models were trained (Linear regression, lasso regression, and decision tree) and the best model (Linera regression) out of three is selected and saved for the prediction.
 ## Installation and Usage
 To utilize the application, one must clone the repository. Essential files housed within the model, server, and website directories are required for the application's functionality. Within the model directory, there exists a pickle file containing the linear regression model crucial for predicting house prices. Before accessing the website, it is imperative to launch the Flask server. Therefore, a Python editor like [VsCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), or [Atom](https://atom-editor.cc/) is essential for running the Flask server and make modifications within the model. [Jupyter Notebook](https://jupyter.org/install) is also a great option for visualization and data analysis.
 ## Libraries covered
@@ -40,3 +43,11 @@ Gokul handled data preprocessing and constructed a linear regression model for p
 * Integrating a user management system
 * Implementing database management to store both results and user information
 ## Acknowledgement
+We would like to express our gratitude to the following individuals and organizations for their valuable contributions and support throughout the development of this project:
+
+* Prof. Bela Gipp & Gipp Lab: We are deeply thankful for the opportunity to participate in the lecture and group project under your guidance and mentorship.
+* Ole Hänies: Our tutor, whose insightful feedback and guidance were instrumental in shaping our project and enhancing our understanding.
+* Terry Lima Ruas: Our lecturer whose expertise and encouragement significantly contributed to the success and growth of our project.
+* Kaggle: For providing the dataset used in this project, which served as a valuable resource for analysis and experimentation.
+* Corey Schafer: A sincere thank you to Correy Schafer for the insightful tutorials and educational content on YouTube, which greatly enhanced our understanding of key concepts.
+We are grateful for the support and resources provided by these individuals and organizations, which were instrumental in the completion of this project.
