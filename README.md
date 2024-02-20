@@ -34,7 +34,7 @@ To utilize the application, one must clone the repository. Essential files house
 * Group team leader: Kolakkattil, Gokul Prakash
 * Group members: Kolakkattil, Gokul Prakash & Balakrishnan, Ruthran Veerasamy
 
-Gokul handled data preprocessing and constructed a linear regression model for predicting house prices, while Ruthran built the Flask server and designed the website for the user interface.
+Gokul handled data preprocessing and constructed a linear regression model for predicting house prices, while Ruthran  designed the website for the user interface. Together, they collaborated on constructing the Flask server to host the website.
 ## Future improvements
 * Expanding the model by incorporating additional features
 * Integrating a user management system
