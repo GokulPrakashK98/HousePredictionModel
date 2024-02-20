@@ -7,8 +7,6 @@ __data_columns = None
 __model = None
 
 def get_estimated_price(location,sqft,bhk,bath):
-    if sqft==0:
-        return 0
     try:
         loc_index = __data_columns.index(location.lower())
     except:
