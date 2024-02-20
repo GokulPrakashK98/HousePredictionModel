@@ -23,12 +23,12 @@ Three models were trained on the training data:
 * Lasso Regression
 * Decision Tree
 ### Model Selection
-After training, the performance of each model was evaluated, and the best-performing model, which is Linear Regression, was selected for further use.
+After training, the performance of each model was evaluated, and the best-performing model, which is Linear Regression, was selected for house price prediction.
 ### Saved Model
 The trained Linear Regression model has been saved and will be utilized for making predictions.
 ## Installation and Usage
 To utilize the application, one must clone the repository. Essential files housed within the model, server, and website directories are required for the application's functionality. Within the model directory, there exists a pickle file containing the linear regression model crucial for predicting house prices. Before accessing the website, it is imperative to launch the Flask server. Therefore, a Python editor like [VsCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), or [Atom](https://atom-editor.cc/) is essential for running the Flask server and make modifications within the model. [Jupyter Notebook](https://jupyter.org/install) is also a great option for visualization and data analysis.
-## Libraries covered
+## Tools & libraries
 1) Python
 2) NumPy and Pandas for data cleaning
 3) Matplotlib for data visualization
