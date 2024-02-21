@@ -60,4 +60,5 @@ We would like to express our gratitude to the following individuals and organiza
 * Terry Lima Ruas: Our lecturer whose expertise and encouragement significantly contributed to the success and growth of our project.
 * Kaggle: For providing the dataset used in this project, which served as a valuable resource for analysis and experimentation.
 * Corey Schafer: A sincere thank you to Correy Schafer for the insightful tutorials and educational content on YouTube, which greatly enhanced our understanding of key concepts.
+  
 We are grateful for the support and resources provided by these individuals and organizations, which were instrumental in the completion of this project.
