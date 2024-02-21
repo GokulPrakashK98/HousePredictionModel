@@ -15,6 +15,7 @@ Statistical analysis of the dataset was multifaceted, involving exploratory, des
 ## 5. Visualizations
 Visualizations were crucial in understanding potential correlations between factors and the target variable. [Matplotlib](https://matplotlib.org/) was primarily utilized for generating scatter plots to explore these relationships comprehensively. These visualizations played a vital role in informing model development and analysis by providing insights into the relationships between various features and predicted house prices.
 ## Machine Learning Model
+[Scikit-learn](https://scikit-learn.org/stable/) library was utilized for the model building.
 ### Dataset Split
 The dataset was divided into a training set and a testing set, with 80% used for training and 20% for testing.
 ### Model Training
